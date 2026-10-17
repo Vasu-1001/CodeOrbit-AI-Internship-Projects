@@ -1,0 +1,8 @@
+# Project 3: Customer Sentiment Analysis Platform
+# CodeOrbit Tech AI Internship - Task 5
+
+streamlit>=1.30.0
+pandas>=2.0.0
+vaderSentiment>=3.3.2
+plotly>=5.18.0
+pytest>=8.0.0
