@@ -1,0 +1,5 @@
+# Task 2: Tic-Tac-Toe AI with Minimax
+# CodeOrbit Tech AI Internship
+
+streamlit>=1.30.0
+pytest>=8.0.0
